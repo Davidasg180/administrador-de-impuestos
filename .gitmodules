@@ -1,2 +1,3 @@
 [submodule "client"]
-	url = https://github.com/Davidasg180/Administrador-de-impuestos-Web-Client-Application.git
+	url = https://github.com/Davidasg180/Administrador-de-impuestos-Web-Client-Application
+	path = client
